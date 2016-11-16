@@ -34,6 +34,7 @@ img{
 
 .left{
 	float: left;
+  margin-right:45px;
 }
 
 .info{
@@ -43,10 +44,16 @@ img{
 	padding-left: 60px;
 	background-color:white;
 	padding-top: 30px;
-	color:#07889B;
-
+	color:#07889B; 
 }
 
+.text_left{
+  float:left;
+}
+
+.text_right{
+  float:right;
+}
 
 
 
