@@ -24,7 +24,7 @@ img{
     padding: 20px;
     width: 220px;
     height: 178px;
-    border:2px solid teal;
+    border:2px solid #07889B;
     border-radius: 12px;
 }
 
@@ -60,22 +60,22 @@ h2{
 }
 
 #symptoms{
-	border: 5px solid teal;
+	border: 5px solid #07889B;
     border-radius: 12px;
 }
 
 #examination{
-	border: 5px solid teal;
+	border: 5px solid #07889B;
     border-radius: 12px;
 }
 
 #surgery{
-	border: 5px solid teal;
+	border: 5px solid #07889B;
     border-radius: 12px;
 }
 
 #rehab{
-	border: 5px solid teal;
+	border: 5px solid #07889B;
     border-radius: 12px;
     padding-bottom: 10px;
 }
