@@ -55,7 +55,9 @@ img{
   float:right;
 }
 
-
+h2{
+  text-decoration: underline;
+}
 
 #symptoms{
 	border: 5px solid teal;
