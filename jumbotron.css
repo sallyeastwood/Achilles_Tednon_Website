@@ -12,9 +12,16 @@ body {
   	line-height: 1.5;
 }	
 .important{
-	font-size: 20px;
-	font-weight: bold;
+	font-size: 16px;
+  vertical-align: middle;
+  text-align: left;
 }
+
+.intial{
+  padding-top: 0px;
+  overflow: hidden;
+}
+
 .content{
   	padding-bottom: 60px;
   	padding-left: 60px;
@@ -62,17 +69,24 @@ h2{
 
 #symptoms{
 	border: 5px solid #07889B;
-    border-radius: 12px;
+  border-radius: 12px;
+  float: left;
+}
+
+#mechanism{
+  border: 5px solid #07889B;
+  border-radius: 12px;
+  float: left;
 }
 
 #examination{
 	border: 5px solid #07889B;
-    border-radius: 12px;
+  border-radius: 12px;
 }
 
 #surgery{
 	border: 5px solid #07889B;
-    border-radius: 12px;
+  border-radius: 12px;
 }
 
 #rehab{
