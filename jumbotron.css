@@ -32,16 +32,25 @@ body {
 }
 
 .content{
-  	padding-bottom: 60px;
+  	margin-bottom: 30px;
   	padding-left: 60px;
   	padding-right: 60px;
     color: #07889B;
 }
 
-img{
+.border{
     width: 220px;
     height: 178px;
     border:2px solid #07889B !important;
+    border-radius: 12px !important;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.noborder{
+    width: 220px;
+    height: 178px;
+    border:2px solid white;
     border-radius: 12px !important;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -83,4 +92,27 @@ div.img {
 div.desc {
     padding: 15px;
     text-align: center;
+}
+
+.stretch{
+  margin: 20px;
+}
+
+.strength{
+  margin: 20px;
+}
+
+.button{
+  float: right;
+}
+
+.bottom{
+  height:34px;
+  background-color: #07889B;
+}
+
+.bottom p{
+  font-size: 16px;
+  float:right;
+  color:white;
 }
